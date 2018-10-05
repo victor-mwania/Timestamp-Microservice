@@ -12,7 +12,8 @@
 		"moment": "^2.22.2"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "4.7.0",
+		"npm": "5.3.5"
 	},
 	"repository": {
 		"type": "git",
